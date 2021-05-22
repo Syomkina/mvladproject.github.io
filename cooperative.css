@@ -1,0 +1,168 @@
+body{
+    background-color: #cd853f;
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: #987654;
+    position: relative;
+}
+.ava{
+    border-radius: 170px;
+    position: absolute;
+   top:50.4%;
+   left:18%;
+   transform:translate(-50%,-50%);
+   width: 139px;
+   height:100px;
+   object-fit:cover;
+}
+.cont{
+    width: 200px;
+    height: 50px;
+    position: relative;
+    top: 23%;
+    left: 59.999%;
+    float: left;
+}
+.Coffee{
+    float: left;
+    width: 200px;
+    height: 50px;
+    position: relative;
+    top: 23%;
+    left: 59.999%;
+}
+.coffeeshop{
+    float: left;
+    width: 200px;
+    height: 50px;
+    position: relative;
+    top: 23%;
+    left: 59.999%;
+}
+a{
+    /* margin: 0 auto; */
+    position: relative;
+    left: 50px;
+    text-decoration: none;
+    color: #f3e5ab;
+    border: 50px;
+    border-color: black;
+    background-color: #b67e47;
+}
+p{
+    position: relative;
+    top: -27px;
+    font: 200% Brush Script MT
+    
+}
+.big{
+    position: relative;
+    left: -29px;
+}
+.sm{
+    position: relative;
+    left: 23px;
+}    
+.sign{
+    width: 50%;
+    height: 300px;
+    margin: 0 auto;
+    padding: 200px;
+    background-color: #b67e47;
+    /* border: 2px solid black; */
+}
+h1{
+    text-align: center;
+    font: 200% 	Brush Script MT;
+    font-weight: 1000;
+    font-size: 320%;
+}
+.text{
+    position: relative;
+    left: 25%;
+    top: 14.8%;
+    width: 500px;
+    height: 25px;
+    background-color: #cd853f;
+    border-color: #cd853f;
+}
+.but{
+    position: relative;
+    left: 235px;
+    top: 45px;
+    height: 31px;
+    width: 85px;
+    background-color: #b67e47;
+    font: 120% Lucida Handwriting;
+    font-weight: 900;
+    color: #f3e5ab;
+}
+:focus::-webkit-input-placeholder {
+    color: transparent
+  }
+/* img{
+    margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+        'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol';
+} */
+.foot{
+    width: 500px;
+    height: 36px;
+    margin: 0 auto;
+}
+.friend{
+    position: relative;
+    top: 0px;
+    right: 52px;
+    font: 200% 	Times New Roman;
+    color: #f3e5ab;
+    text-align: center;
+}
+.footerrr{
+    position: relative;
+    top: -25px;
+    font: 200% Brush Script MT;
+    text-align: center;
+}
+.contactwithus{
+    width: 50%;
+    height: 100px;
+    margin: 0 auto;
+}
+.contwithus{
+    margin: 0 auto;
+    font: 200% Brush Script MT;
+    position: relative;
+    top: 5px;
+    text-align: center;
+    color: #cd853f;
+    text-shadow: rgb(0, 0, 0) 1px 1px 0, rgb(0, 0, 0) -1px -1px 0, 
+                 rgb(0, 0, 0) -1px 1px 0, rgb(0, 0, 0) 1px -1px 0;
+    
+}
+.facebook{
+    text-align: center;
+    position: relative;
+    top: -85px;
+    left: 45px;
+    font: 200% 	Times New Roman;
+    color: black;
+}
+.instagram{
+    text-align: center;
+    font: 200% 	Times New Roman;
+    position: relative;
+    top: -17px;
+    left: -143px;
+    color: black;
+}
+.facediv{
+    width: 100px;
+    position: relative;
+    left: 415px;
+}
+
